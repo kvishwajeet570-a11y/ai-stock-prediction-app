@@ -99,7 +99,7 @@ if page == " Home Page":
 
     st.markdown("""
     <div class="super-header">
-        <div class="float-icon">🔥🚀</div>
+        <div class="float-icon"></div>
         <div class="super-title">TRADING APP</div>
         <div class="tagline">
             AI Driven Market Intelligence • Real-Time Analytics • Institutional Grade Systems
